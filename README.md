@@ -1,1 +1,1 @@
-# logistic_regression_scratch_L1
+# Implement Logistic Regression from scratch
